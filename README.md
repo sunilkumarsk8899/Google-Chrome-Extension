@@ -41,4 +41,4 @@ Stay tuned for more updates! 🚀
 📢 **Contributions & Feedback**  
 We welcome feedback and contributions! If you have suggestions or issues, feel free to open an issue or create a pull request.  
 
-🔗 **GitHub Repository:** [Your Repository Link](https://github.com/yourusername/google-chrome-extensions)
+🔗 **GitHub Repository:** [Your Repository Link](https://github.com/sunilkumarsk8899/Google-Chrome-Extension.git)
